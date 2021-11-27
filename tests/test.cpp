@@ -1,6 +1,6 @@
 #include <gtest/gtest.h>
 
-#include <header.h>
+#include <header.hpp>
 
 TEST(printTest, StudentsArray) {
   std::stringstream ss;
