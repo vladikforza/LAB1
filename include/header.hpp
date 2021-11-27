@@ -1,3 +1,4 @@
+//Copyright 2021 Vdal
 #include <nlohmann/json.hpp>
 #include <sstream>
 #include "any"
@@ -16,7 +17,6 @@ struct student_t {
   std::any group;
   std::any avg;
   std::any debt;
-
 };
 
 auto get_name(const json& j)-> std::string;

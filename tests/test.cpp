@@ -1,3 +1,4 @@
+//Copyright 2021 Vdal
 #include <gtest/gtest.h>
 
 #include <header.hpp>

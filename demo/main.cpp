@@ -1,3 +1,4 @@
+//Copyright 2021 Vdal
 #include <header.hpp>
 
 int main() {
